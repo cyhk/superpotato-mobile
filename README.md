@@ -8,5 +8,4 @@ Follow the instructions on [Getting Started](https://facebook.github.io/react-na
 
 ## Technologies used
 
-Typescript
-React Native
+Typescript, React Native
