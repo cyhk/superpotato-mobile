@@ -5,3 +5,8 @@ Manage your network and friends by letting superpotato do the job for you! It'll
 ## Setting up mobile development
 
 Follow the instructions on [Getting Started](https://facebook.github.io/react-native/docs/getting-started) in the React Native docs.
+
+## Technologies used
+
+Typescript
+React Native
